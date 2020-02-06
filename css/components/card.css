@@ -1,0 +1,18 @@
+/* card */
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  border: 2px solid lightgrey;
+  padding: 5px 15px;
+}
+
+.image-card {
+
+  width: 220px;
+}
+
+

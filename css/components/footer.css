@@ -1,0 +1,29 @@
+/* footer */
+.footer {
+  text-align: center;
+  background-color: black;
+  margin:0 auto;
+  color: white;
+}
+
+.footer li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 40px;
+  padding-top: 30px
+  }
+.fab {
+  color:white;
+}
+
+.fab:hover {
+  color: lightgreen;
+  transition: 1s;
+}
+
+.developed {
+  padding-bottom: 30px
+}
+
+

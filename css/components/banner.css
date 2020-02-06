@@ -1,0 +1,41 @@
+/* banner */
+
+.banner {
+  color: white;
+  background-size: cover;
+  padding: 200px 0px;
+  margin:0 auto;
+  padding-left: 90px
+}
+
+.banner p {
+  opacity: 0.5;
+}
+
+.banner h1 {
+  font-size: 30px
+}
+
+.button1 {
+  background-color: lightgreen;
+  color: white;
+  font-weight: bold;
+  padding: 15px 35px;
+  border-radius: 25px;
+  border: none;
+  box-shadow: 1px 1px 1px lightgrey;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.button1:hover {
+  opacity: 0.6;
+  transition: 1s;
+  color: black;
+}
+
+.header {
+  text-align: center;
+}
+
+
